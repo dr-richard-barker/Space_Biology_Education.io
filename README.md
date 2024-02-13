@@ -1,4 +1,4 @@
-![NASA_GeneLab_banner](Images/NASA_GeneLab_banner_v3_scroll_down.jpg)
+![NASA_GeneLab_banner](https://dr-richard-barker.github.io/Space_Biology_and_AstroBotany.io/Images/NASA_GeneLab_banner_v3_scroll_down.jpg "NASA_GeneLab_banner")
 # Space-Biology-and-AstroBotany.io
 
 This Google CoLab notebook above pulls data from the GeneLab API.
@@ -16,7 +16,8 @@ Preliminary analysis reveals some NASA Data files produced by the GeneLab analys
 ---
 
 **Metadata summary**
-![GeneLab_gadgetIcon](Images/GeneLab_gadgetIcon.png)
+
+![GeneLab_gadgetIcon](https://dr-richard-barker.github.io/Space_Biology_and_AstroBotany.io/Images/GeneLab_gadgetIcon.png "NASA_GeneLab_Computer")
 
 Is there a simple way to sort and summarize the meta-data? 
 
@@ -45,8 +46,9 @@ Is there a way to perform PCA, K-means and T-SNE clustering to identify function
 
 Images
 
-![GeneLab_mitochondrial_stress](Images/DRB_2022_K_transporters_in_space_miriocondira_oxidatiive_phosphorylation.png)
-This figure uses data projected onto a KEGG pathway that was then customised using Adobe photoshop to aid with narrative development related to changes in membrane transport. 
+![GeneLab_mitochondrial_stress](https://dr-richard-barker.github.io/Space_Biology_and_AstroBotany.io/Images/DRB_2022_K_transporters_in_space_miriocondira_oxidatiive_phosphorylation.png "GeneLab_mitochondrial_stress")
+
+This prototype figure uses data projected onto a KEGG pathway that was then customised using Adobe photoshop to aid with narrative development related to changes in membrane transport. 
 
 
 **Early Goal:** Test website creation methods using this early introductory repo.
