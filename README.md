@@ -8,7 +8,6 @@ This Google CoLab notebook above pulls data from the GeneLab API.
 ---
 
 
-
 Preliminary analysis reveals some NASA Data files produced by the GeneLab analysis team that should be easy to open, combine and visualise. 
 
 **Simple challenges and short-term goals to help enable analysis** 
@@ -44,9 +43,10 @@ Is there a way to perform PCA, K-means and T-SNE clustering to identify function
 
 ---
 
-Images
+
 
 ![GeneLab_mitochondrial_stress](https://dr-richard-barker.github.io/Space_Biology_and_AstroBotany.io/Images/DRB_2022_K_transporters_in_space_miriocondira_oxidatiive_phosphorylation.png "GeneLab_mitochondrial_stress")
+
 
 This prototype figure uses data projected onto a KEGG pathway that was then customised using Adobe photoshop to aid with narrative development related to changes in membrane transport.
 There are several issues with this artistic figure, primarily there isn't a color scale, showing that red is up and blue is down in gene expression. This highlights the use of "notebook-embedded" data visualisation. 
