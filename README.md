@@ -28,5 +28,5 @@ Is there a way to perform k-means and T-sne clustering to identify functionally 
 ---
 
 
-Early Goal: Test website creation methods using this early introductory repo.
+**Early Goal:** Test website creation methods using this early introductory repo.
 Space Biology and AstroBotany.io has the goal of making space biology data more FAIR. 
