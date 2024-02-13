@@ -48,7 +48,8 @@ Images
 
 ![GeneLab_mitochondrial_stress](https://dr-richard-barker.github.io/Space_Biology_and_AstroBotany.io/Images/DRB_2022_K_transporters_in_space_miriocondira_oxidatiive_phosphorylation.png "GeneLab_mitochondrial_stress")
 
-This prototype figure uses data projected onto a KEGG pathway that was then customised using Adobe photoshop to aid with narrative development related to changes in membrane transport. 
+This prototype figure uses data projected onto a KEGG pathway that was then customised using Adobe photoshop to aid with narrative development related to changes in membrane transport.
+There are several issues with this artistic figure, primarily there isn't a color scale, showing that red is up and blue is down in gene expression. This highlights the use of "notebook-embedded" data visualisation. 
 
 
 **Early Goal:** Test website creation methods using this early introductory repo.
