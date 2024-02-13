@@ -16,8 +16,6 @@ Preliminary analysis reveals some NASA Data files produced by the GeneLab analys
 
 **Metadata summary**
 
-![GeneLab_gadgetIcon](https://dr-richard-barker.github.io/Space_Biology_and_AstroBotany.io/Images/GeneLab_gadgetIcon.png "NASA_GeneLab_Computer")
-
 Is there a simple way to sort and summarize the meta-data? 
 
 Is there a way to quantify the similarity of the accessions based on their metadata?
@@ -25,6 +23,8 @@ Is there a way to quantify the similarity of the accessions based on their metad
 Is there a way to merge normalized counts for heatmaps?
 
 Is there a way to merge counts for statistical analysis? 
+
+![GeneLab_gadgetIcon](https://dr-richard-barker.github.io/Space_Biology_and_AstroBotany.io/Images/GeneLab_gadgetIcon.png "NASA_GeneLab_Computer")
 
 
 ---
