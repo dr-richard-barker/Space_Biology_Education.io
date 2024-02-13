@@ -14,16 +14,23 @@ Preliminary analysis reveals some NASA Data files produced by the GeneLab analys
 
 **Metadata summary**
 Is there a simple way to sort and summarize the meta-data? 
-I there a way to quantify the similarity of the accessions based on their metadata?
+Is there a way to quantify the similarity of the accessions based on their metadata?
+Is there a way to merge normalized counts for heatmaps?
+Is there a way to merge counts for statistical analysis? 
 
 ---
 
 **Expression data**
+
 Is there a simple way to plot the normalised counts as a heat map?
+
 Is there a way to view the html files in the CoLab notebook?
+
 Is there a way to view the differential expression data on Reactome pathways?
-Is there a way to perform geneset enrichment analysis of differentially expressed loci. 
-Is there a way to perform k-means and T-sne clustering to identify functionally related co-expression clusters. 
+
+Is there a way to perform Geneset enrichment analysis of differentially expressed loci? 
+
+Is there a way to perform k-means and T-sne clustering to identify functionally related co-expression clusters? 
 
 ---
 
