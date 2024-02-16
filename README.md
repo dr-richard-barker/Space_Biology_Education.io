@@ -5,7 +5,7 @@ Preliminary analysis reveals some NASA Data files produced by the GeneLab analys
 
 This Google CoLab notebook above pulls data from the GeneLab API.
 
-[https://github.com/dr-richard-barker/Space-Biology-and-AstroBotany.io/OSDR_API_demo_viewing_html_files_in_notebook.ipynb](https://github.com/dr-richard-barker/Space-Biology-and-AstroBotany.io/blob/main/OSDR_API_demo_GLDS-37.ipynb)
+[https://github.com/dr-richard-barker/Space-Biology-and-AstroBotany.io/OSDR_API_demo_viewing_OSD-37.ipynb](https://github.com/dr-richard-barker/Space-Biology-and-AstroBotany.io/blob/main/OSDR_API_demo_GLDS-37.ipynb)
 
 ---
 
