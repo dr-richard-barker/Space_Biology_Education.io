@@ -5,16 +5,23 @@ Preliminary analysis reveals some NASA Data files produced by the GeneLab analys
 
 This Google CoLab notebook above pulls data from the GeneLab API.
 
+
+**Note:** There are mistakes in the python code that prevent it from plotting PCA reduction or viewing expression data on KEGG pathways correctly. 
+
 [https://github.com/dr-richard-barker/Space-Biology-and-AstroBotany.io/OSDR_API_demo_OSD-37.ipynb](https://github.com/dr-richard-barker/Space-Biology-and-AstroBotany.io/blob/main/OSDR_API_demo_GLDS-37.ipynb)
+*Please help me and see if you can fix the code?* :-)
+
+**If you like Python programming challenges you can use this template and solve the challenges feel free to use this notebook and please share your progress by saving it back into this repo!**  
+
 
 ---
-
 
 
 **Simple challenges and short-term goals to help enable analysis** 
 
 
 ![GeneLab_gadgetIcon](https://dr-richard-barker.github.io/Space_Biology_and_AstroBotany.io/Images/GeneLab_gadgetIcon.png "NASA_GeneLab_Computer")
+
 
 ---
 
@@ -51,10 +58,10 @@ So here's the preliminary plan for what our Colab notebook will look like with t
 **1. Setting Up the Stage:**
 
 Import Necessary Libraries: Pandas, NumPy, scikit-learn, Matplotlib, Seaborn (depending on the analysis goal this may vary).
-Mount Google Drive: Accessing my datasets stored there.
+Mount Google Drive: Access datasets stored there.
 Download Required Data: Specifying URLs or using cloud storage options.
 Data Preprocessing: Reading files, handling missing values, formatting genotypes/phenotypes.
-Quality Control: Checking for outliers, ensuring correct sample IDs, exploring data distributions.
+Quality Control: Checking for outliers, ensuring correct sample IDs, and exploring data distributions.
 
 
 **2. Exploration and Visualization:**
@@ -88,16 +95,9 @@ Choosing appropriate analysis methods and tools.
 Tailoring visualizations and interpretations to the context.
 Integrating additional libraries or workflows for specific needs.
 
-
-** Please consider co-developing this Google CoLab notebook, it is currently designed just to pull data from a Plant SpaceFlight experiment from the GOpen Science Data Archive (OSDA).**
-
-[https://github.com/dr-richard-barker/Space-Biology-and-AstroBotany.io/SDR_API_demo_viewing_html_files_in_notebook.ipynb](https://github.com/dr-richard-barker/Space-Biology-and-AstroBotany.io/blob/main/OSDR_API_demo.ipynb)
-
-
 ---
 
 # **Example questions that we should be able to ask of expression data**
-
 
 A. Is there a simple way to plot the normalised counts as a heat map?
 
@@ -110,7 +110,15 @@ D. Is there a way to perform Geneset enrichment analysis of differentially expre
 E. Is there a way to perform PCA, K-means and T-SNE clustering to identify functionally related co-expression clusters? 
 
 
---_
+**Please consider co-developing this Google CoLab notebook, it is currently designed just to pull data from a Plant SpaceFlight experiment from the GOpen Science Data Archive (OSDA).**
+
+Note: As mentioned earlier, there are mistakes in the python code in this notebook that currently prevent it from plotting PCA reduction or viewing expression data on KEGG pathways correctly. Can you help? :-D
+
+[https://github.com/dr-richard-barker/Space-Biology-and-AstroBotany.io/OSDR_API_demo_OSD-37.ipynb](https://github.com/dr-richard-barker/Space-Biology-and-AstroBotany.io/blob/main/OSDR_API_demo_GLDS-37.ipynb)
+*Please help me and see if you can fix the code?* 
+
+
+---
 
 
 **Early Goal:** This test website was created to practice methods of presenting data analysis methods using the github repo.
