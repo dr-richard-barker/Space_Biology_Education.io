@@ -44,6 +44,7 @@ This Google CoLab notebook above pulls data from the GeneLab API, there are mist
 You can push your edited version of the "Google Colab" notebook into this repo to save and share your results with collaborators around the world. 
 
 ---
+**Example questions that can be asked of the meta-data and mulit-omics integration**
 
 
 **Metadata summary**
@@ -66,7 +67,8 @@ E. Is there a way to merge multi-omics data?
 ---
 
 
-# **Example questions that we should be able to ask of expression data**
+**Example questions that we should be able to ask of expression data**
+
 
 F. Is there a simple way to plot the normalized counts as a heat map?
 
