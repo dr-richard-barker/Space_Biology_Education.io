@@ -39,54 +39,9 @@ This Google CoLab notebook above pulls data from the GeneLab API, there are mist
 
 **Solve the challenges feel free to use this notebook and please share your progress by saving it back into this repo!**  
 
-[This Public repo is where the code for this page lives](https://github.com/dr-richard-barker/Space_Biology_and_AstroBotany.io)
+[This Public repo is where the code for this page "lives" and can evolve with your help!](https://github.com/dr-richard-barker/Space_Biology_and_AstroBotany.io)
+
 You can push your edited version of the "Google Colab" notebook into this repo to save and share your results with collaborators around the world. 
-
----
-
-## Plan of action 
-
-So here's the preliminary plan for what our Colab notebook will look like with the goal of exploring genetics data:
-
-**1. Setting Up the Stage:**
-
-Import Necessary Libraries: Pandas, NumPy, scikit-learn, Matplotlib, Seaborn (depending on the analysis goal this may vary).
-Mount Google Drive: Access datasets stored there.
-Download Required Data: Specifying URLs or using cloud storage options.
-Data Preprocessing: Reading files, handling missing values, formatting genotypes/phenotypes.
-Quality Control: Checking for outliers, ensuring correct sample IDs, and exploring data distributions.
-
-
-**2. Exploration and Visualization:**
-
-Descriptive Statistics: Summarizing genotypes and phenotypes, identifying interesting patterns.
-Principal Component Analysis (PCA): Visualizing relationships between samples based on genetic variation.
-Clustering: Grouping samples based on similarity, potentially revealing subpopulations.
-Genome-Wide Association Studies (GWAS): Identifying potential genetic variants associated with traits.
-Visualization of Results: Creating informative plots and heatmaps to showcase findings.
-
-
-**3. Advanced Analysis (Optional):**
-
-Network Analysis: Exploring interactions between genes and pathways.
-Machine Learning: Predicting phenotypes based on genotypes or identifying subgroups.
-Differential Expression Analysis: Identifying genes with different expression levels between groups.
-Functional Annotation: Linking genetic variants to known biological functions.
-
-
-**4. Sharing and Collaborating:**
-
-Saving and Exporting Results: Keeping organized outputs for further analysis or presentation.
-Sharing the Notebook: Collaborating with colleagues and making research reproducible.
-Documenting Code and Findings: Clear comments and annotations for understanding the workflow.
-
-
-**5. Adapting the Notebook:**
-
-Depending on the specific research question and data type, adjustments will be made:
-Choosing appropriate analysis methods and tools.
-Tailoring visualizations and interpretations to the context.
-Integrating additional libraries or workflows for specific needs.
 
 ---
 
