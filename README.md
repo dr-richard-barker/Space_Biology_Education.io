@@ -33,7 +33,7 @@ This Google CoLab notebook above pulls data from the GeneLab API, there are mist
 
 [https://github.com/dr-richard-barker/Space-Biology-and-AstroBotany.io/OSDR_API_demo_OSD-37.ipynb](https://github.com/dr-richard-barker/Space-Biology-and-AstroBotany.io/blob/main/OSDR_API_demo_GLDS-37.ipynb)
 
-*Please consider co-developing this Google CoLab notebook, it is currently designed to pull data from a AstroBotany SpaceFlight experiment from the OSDR.*
+*Please consider co-developing this Google CoLab notebook, it is currently designed to pull data from an AstroBotany SpaceFlight experiment from the OSDR.*
 
 ---
 
@@ -44,7 +44,7 @@ This Google CoLab notebook above pulls data from the GeneLab API, there are mist
 You can push your edited version of the "Google Colab" notebook into this repo to save and share your results with collaborators around the world. 
 
 ---
-**Example questions that can be asked of the meta-data and mulit-omics integration**
+**Example questions that can be asked of the meta-data and multi-omics integration**
 
 
 **Metadata summary**
