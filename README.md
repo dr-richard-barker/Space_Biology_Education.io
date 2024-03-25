@@ -1,4 +1,4 @@
-![NASA_GeneLab_banner](https://dr-richard-barker.github.io/Space_Biology_and_AstroBotany.io/Images/NASA_GeneLab_banner_v3_scroll_down.jpg "NASA_GeneLab_banner")
+![NASA_GeneLab_banner](https://dr-richard-barker.github.io/Space_Biology_Education.io/Images/NASA_GeneLab_banner_v3_scroll_down.jpg "NASA_GeneLab_banner")
 ## [Space-Biology-and-AstroBotany.io](https://dr-richard-barker.github.io/Space_Biology_and_AstroBotany.io)
 
 Preliminary analysis reveals some NASA Data files produced by the GeneLab analysis team that should be easy to open, combine and visualise. 
@@ -8,14 +8,14 @@ We aim to provide useful material for integrating Data from NASA Open Science Da
 
 ---
 
-![GeneLab_gadgetIcon](https://dr-richard-barker.github.io/Space_Biology_and_AstroBotany.io/Images/GeneLab_gadgetIcon.png "NASA_GeneLab_Computer")
+![GeneLab_gadgetIcon](https://dr-richard-barker.github.io/Space_Biology_Education.io/Images/GeneLab_gadgetIcon.png "NASA_GeneLab_Computer")
 
 
 **Simple challenges and short-term goals to help you improve and enable new analysis** 
 
 ---
 
-[Help develop the project wikipage](https://github.com/dr-richard-barker/Space_Biology_and_AstroBotany.io/wiki)
+[Help develop the project wikipage](https://github.com/dr-richard-barker/Space_Biology_Education.io/wiki)
 
 ---
 
@@ -23,7 +23,7 @@ We aim to provide useful material for integrating Data from NASA Open Science Da
 
 ---
 
-[Join the conversation here on the repo discussion board](https://github.com/dr-richard-barker/Space_Biology_and_AstroBotany.io/discussions)
+[Join the conversation here on the repo discussion board](https://github.com/dr-richard-barker/Space_Biology_Education.io/discussions)
 
 ___
 
@@ -31,7 +31,7 @@ This Google CoLab notebook above pulls data from the GeneLab API, there are mist
 
 *Please help me and see if you can fix the code?* 
 
-[https://github.com/dr-richard-barker/Space-Biology-and-AstroBotany.io/OSDR_API_demo_OSD-37.ipynb](https://github.com/dr-richard-barker/Space-Biology-and-AstroBotany.io/blob/main/OSDR_API_demo_GLDS-37.ipynb)
+[https://github.com/dr-richard-barker/Space-Biology-Education.io/OSDR_API_demo_OSD-37.ipynb](https://github.com/dr-richard-barker/Space-Biology-Education.io/blob/main/OSDR_API_demo_GLDS-37.ipynb)
 
 *Please consider co-developing this Google CoLab notebook, it is currently designed to pull data from an AstroBotany SpaceFlight experiment from the OSDR.*
 
@@ -39,7 +39,7 @@ This Google CoLab notebook above pulls data from the GeneLab API, there are mist
 
 **Solve the challenges feel free to use this notebook and please share your progress by saving it back into this repo!**  
 
-[This Public repo is where the code for this page "lives" and can evolve with your help!](https://github.com/dr-richard-barker/Space_Biology_and_AstroBotany.io)
+[This Public repo is where the code for this page "lives" and can evolve with your help!](https://github.com/dr-richard-barker/Space_Biology_Education.io)
 
 You can push your edited version of the "Google Colab" notebook into this repo to save and share your results with collaborators around the world. 
 
@@ -86,7 +86,7 @@ J. Is there a way to perform PCA, K-means and T-SNE clustering to identify funct
 
 ## Adding some Sci-Art can help present data in a more insightful manner
 
-![GeneLab_mitochondrial_stress](https://dr-richard-barker.github.io/Space_Biology_and_AstroBotany.io/Images/DRB_2022_K_transporters_in_space_miriocondira_oxidatiive_phosphorylation.png "GeneLab_mitochondrial_stress")
+![GeneLab_mitochondrial_stress](https://dr-richard-barker.github.io/Space_Biology_Education.io/Images/DRB_2022_K_transporters_in_space_miriocondira_oxidatiive_phosphorylation.png "GeneLab_mitochondrial_stress")
 
 This prototype figure was made for artistic merit, it uses data projected onto a KEGG pathway that was then customised using Adobe Photoshop to aid with narrative development related to changes in membrane transport.
 There are several scientifically relevant data presentation issues with this figure, primarily there isn't a color scale, showing that red is up and blue is down in gene expression. 
