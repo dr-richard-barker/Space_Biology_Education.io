@@ -20,13 +20,17 @@ github:
 # Build settings
 markdown: kramdown
 
-# Keep non-site content out of the built pages
+# Keep non-site content out of the built pages.
+# MadWest_Rocketry is excluded because "Flight protocol.md" is actually a binary
+# Word document with a .md extension, which crashes the Jekyll build.
 exclude:
   - "*.ipynb"
   - Example_code
   - Example_notebooks
   - OSDR_training
   - Metadata_files
+  - MadWest_Rocketry
+  - Java_script_reactome
   - work_flows
   - Gemfile
   - Gemfile.lock
