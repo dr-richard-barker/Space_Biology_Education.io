@@ -1,3 +1,34 @@
+title: Space Biology Education
+description: >-
+  Making NASA space biology data more FAIR — training material, notebooks and
+  challenges for integrating Open Science Data Archive (OSDR) data into analysis.
+
+# Cayman theme via GitHub Pages remote_theme
 remote_theme: pages-themes/cayman@v0.2.0
 plugins:
-- jekyll-remote-theme
+  - jekyll-remote-theme
+  - jekyll-seo-tag
+
+# Show the "View on GitHub" / download buttons in the theme header
+show_downloads: true
+
+# Repository metadata (used by the theme header buttons and SEO tags)
+repository: dr-richard-barker/Space_Biology_Education.io
+github:
+  is_project_page: true
+
+# Build settings
+markdown: kramdown
+
+# Keep non-site content out of the built pages
+exclude:
+  - "*.ipynb"
+  - Example_code
+  - Example_notebooks
+  - OSDR_training
+  - Metadata_files
+  - work_flows
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - LICENSE
